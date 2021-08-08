@@ -9,7 +9,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-SVC&layout=compact)](https://github.com/Giovanni-SVC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-SVC&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/Giovanni-SVC/github-readme-stats)
+
 
 <hr>
   
