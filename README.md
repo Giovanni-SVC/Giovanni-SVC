@@ -9,12 +9,12 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-cerqueira&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/giovanni-cerqueiraC/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-SVC&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/Giovanni-SVCC/github-readme-stats)
 
 
 <hr>
   
-  ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanni-cerqueira&theme=dark&show_icons=true)
+  ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovanni-SVC&theme=dark&show_icons=true)
   <hr>
 
 
@@ -71,7 +71,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 **You can connect with me by clicking here:** <br> <br>
 [<img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=c2c1c1"  height="50" width="50" />](https://www.linkedin.com/in/giovannicerqueira//)
   
-  ![Snake animation](https://github.com/giovanni-cerqueira/giovanni-cerqueira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Giovanni-SVC/Giovanni-SVC/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
