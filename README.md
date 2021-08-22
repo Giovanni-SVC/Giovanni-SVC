@@ -14,7 +14,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <hr>
   
-  ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovanni-SVC&theme=dark&show_icons=true)
+  ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username= giovanni-cerqueira&theme=dark&show_icons=true)
   <hr>
 
 
