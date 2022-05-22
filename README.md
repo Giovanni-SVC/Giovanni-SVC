@@ -1,8 +1,7 @@
 # Hi everyone!✌🏽
 
-My name is Giovanni Cerqueira. I'm from Brazil. I'm a software/web development student 💻.
+My name is Giovanni Cerqueira. I'm a software/web development student 💻.
 
-📍 São Paulo - SP.
 ###
 
 <div align="center">
