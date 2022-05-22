@@ -2,8 +2,6 @@
 
 My name is Giovanni Cerqueira. I'm from Brazil. I'm a software/web development student 💻.
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes! 🚀
-
 📍 São Paulo - SP.
 ###
 
