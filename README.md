@@ -8,6 +8,12 @@
   <img align="center" alt="Gio-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Gio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+   <img align="center" alt="Java" height="30" width="30" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=8701f4">
+  <img align="center" alt="Java" height="30" width="60" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" align="center" height="30" width="30">
+  <img src="Logos-Conhecimentos/Maven.png" alt="Maven" title="Maven" align="center" height="30" width="30">
+  <img src="Logos-Conhecimentos/Junit.png" alt="Junit" title="Junit" align="center" height="30" width="30">
   <img align="center" alt="Gio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
   <img align="center" alt="Gio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
   <img align="center" alt="Gio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
