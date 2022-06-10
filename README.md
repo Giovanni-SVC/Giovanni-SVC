@@ -3,6 +3,7 @@
   <a href="https://github.com/giovanni-cerqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanni-cerqueira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+## Back-end
 <div style="display: inline_block"><br>
   <img align="center" alt="Gio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Gio-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
@@ -15,6 +16,8 @@
   <img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="Insomnia" title="Insomnia" align="center" height="30" width="30">
   <img src="Logos-Conhecimentos/Maven.png" alt="Maven" title="Maven" align="center" height="30" width="30">
   <img src="Logos-Conhecimentos/Junit.png" alt="Junit" title="Junit" align="center" height="30" width="30">
+<br>
+## Front-end
   <img align="center" alt="Gio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg">
   <img align="center" alt="Gio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
   <img align="center" alt="Gio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
