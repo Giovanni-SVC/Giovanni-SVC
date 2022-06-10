@@ -9,10 +9,9 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="Gradle" title="Gradle" align="center" height="40" width="60">
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="Gradle" title="Gradle" align="center" height="40" width="80">
   <img src="Logos-Conhecimentos/Junit.png" alt="Junit" title="Junit" align="center" height="30" width="30">
-  <img align="center" alt="postgresql" height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-  <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="postgresql" height="80" width="80" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
   <img align="center" alt="nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="kubernetes" height="30" width="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
