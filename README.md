@@ -11,7 +11,6 @@
   <img align="center" alt="Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="Gradle" title="Gradle" align="center" height="30" width="50">
   <img src="Logos-Conhecimentos/Junit.png" alt="Junit" title="Junit" align="center" height="30" width="30">
-  <img align="center" alt="mysql" height="50" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=8701f4">
   <img align="center" alt="postgresql" height="30" width="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
