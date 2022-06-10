@@ -9,13 +9,13 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Spring" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="Gradle" title="Gradle" align="center" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="Gradle" title="Gradle" align="center" height="30" width="50">
   <img src="Logos-Conhecimentos/Junit.png" alt="Junit" title="Junit" align="center" height="30" width="30">
   <img align="center" alt="mysql" height="50" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=8701f4">
-  <img align="center" alt="postgresql" height="30" width="30" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="postgresql" height="30" width="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nodejs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="kubernetes" height="30" width="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" align="center" height="30" width="30">
   <img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="Insomnia" title="Insomnia" align="center" height="30" width="30">
